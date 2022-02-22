@@ -1,3 +1,14 @@
-# run-buddy
-run buddy landing page project
-Week 1 Project for UCF WebDevelopment Bootcamp. 
+# Run Buddy
+
+## Purpose
+A website that offers fitness training services.
+
+## Built With
+* HTML
+* CSS
+
+## Website
+https://lernantino.github.io/run-buddy/
+
+## Contribution
+Made with ❤️ by [your name]
